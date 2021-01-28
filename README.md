@@ -1,4 +1,4 @@
-# HTML Help
+# Drinks
 #### By Collin Chapman
 #### Practice project for learning branching
 
